@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ICE_Task_2": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7268",
+      "launchBrowser": false
+    }
+  }
+}
